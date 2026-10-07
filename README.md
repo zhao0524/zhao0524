@@ -17,8 +17,3 @@ EXPERIENCE
   VP Technology                @ Laurier Analytics Society
   Director of SWE              @ Laurier Computing Society
 ```
-
-[LinkedIn](https://www.linkedin.com/in/david-zhao-0524dz/) · [Devpost](https://devpost.com/zhao0524) · [Portfolio](https://davidzhaoportfolio.vercel.app/)
-
-**Tools I use**  
-`Angular` `Docker` `FastAPI` `Kubernetes` `Node.js` `Python` `React` `SQL` `TypeScript`
